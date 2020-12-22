@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.jfcbuilder.builders"},{"l":"com.jfcbuilder.types"}]
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.jfcbuilder.builders"},{"l":"com.jfcbuilder.types"}];updateSearchResults();
