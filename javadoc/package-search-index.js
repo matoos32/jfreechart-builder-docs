@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.jfcbuilder.builders"},{"l":"com.jfcbuilder.types"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.jfcbuilder.adapters"},{"l":"com.jfcbuilder.builders"},{"l":"com.jfcbuilder.labels"},{"l":"com.jfcbuilder.listeners"},{"l":"com.jfcbuilder.types"}];updateSearchResults();
